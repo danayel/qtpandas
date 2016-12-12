@@ -67,7 +67,7 @@ if __name__ == "__main__":
     app.exec_()
 ```
 
-# Examples
+# Examples2
 
 These can be found in QtPandas/examples.
 
