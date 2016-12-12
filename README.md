@@ -14,7 +14,6 @@
         <td><img src="https://img.shields.io/pypi/status/qtpandas.svg" alt="status" /></td>
     </tr>
     <tr>
-    <tr>
         <td>Build Status</td>
         <td>
             <a href="https://travis-ci.org/draperjames/qtpandas">
@@ -23,14 +22,15 @@
         </td>
     </tr>
     <tr>
-  <td>PyPI</td>
-  <td>
-    <a href="https://pypi.python.org/pypi/qtpandas/">
-    <img src="https://img.shields.io/pypi/dm/qtpandas.svg" alt="pypi downloads" />
-    </a>
-  </td>
-</tr>
+      <td>PyPI</td>
+      <td>
+        <a href="https://pypi.python.org/pypi/qtpandas/">
+        <img src="https://img.shields.io/pypi/dm/qtpandas.svg" alt="pypi downloads" />
+        </a>
+      </td>
+    </tr>
 </table>
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/795dad8f6dfd4697ab8474265c4d47cb)](https://www.codacy.com/app/james-draper/qtpandas?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=draperjames/qtpandas&amp;utm_campaign=Badge_Grade)
 [![Join the chat at https://gitter.im/qtpandas/Lobby#](https://badges.gitter.im/qtpandas/lobby.svg)](https://gitter.im/qtpandas/Lobby#)
 [![open issues](https://img.shields.io/github/issues-raw/draperjames/qtpandas.svg)](https://github.com/draperjames/qtpandas/issues)
