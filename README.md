@@ -42,16 +42,21 @@
 
 ## Install
 To install run the following in the command prompt;
+
 ```
 pip install qtpandas
 ```
+
 If that doesn't work try installing the lastest version of easy gui;
+
 ```
 pip install --upgrade git+https://github.com/robertlugg/easygui.git
 ```
+
 If that doesn't work then please [report an issue](https://github.com/draperjames/qtpandas/issues)
 
 To use, create a new Python script containing the following:
+
 ```
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
@@ -67,7 +72,7 @@ if __name__ == "__main__":
     app.exec_()
 ```
 
-# Examples2
+# Examples3
 
 These can be found in QtPandas/examples.
 
