@@ -35,7 +35,7 @@
 [![open issues](https://img.shields.io/github/issues-raw/draperjames/qtpandas.svg)](https://github.com/draperjames/qtpandas/issues)
 [![closed issues](https://img.shields.io/github/issues-closed/draperjames/qtpandas.svg)](https://github.com/draperjames/qtpandas/issues)
 
-## Requirements;
+## Requirements2;
 > Python 3.4 or greater    
 > Pthon 2.7 or greater     
 > PyQt4
