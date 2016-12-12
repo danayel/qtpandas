@@ -66,6 +66,7 @@ if __name__ == "__main__":
     dialog.show()
     app.exec_()
 ```
+
 # Examples
 
 These can be found in QtPandas/examples.
